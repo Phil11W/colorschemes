@@ -1,19 +1,10 @@
-kde-konsole-colorschemes
-========================
-
-KDE4 Konsole Colorschemes captured from various places on Internet.
-
-I am just compiling all these in one place.
-
-Installation
+colorschemes
 ============
 
-Copy these files to `~/.kde/share/apps/konsole` directory ( or `~/.local/share/konsole` directory, if kde is newer > 2015)
+Colorschemes for various apps. 
 
-Go to `konsole` > `settings` > `Edit Current Profile` > `Appearance` and choose your preferred theme.
-
-master/screenshots
-===========
+Selected konsole screenshots
+============================
 
 1. Monokai
 
@@ -64,8 +55,3 @@ Credits
 =======
 
 To the authors who have created all these color schemes. 
-
-License
-=======
-
-MIT
